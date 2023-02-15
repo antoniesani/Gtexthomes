@@ -1,0 +1,8 @@
+#Install NPM as shwn below
+#Open CMd 
+   
+    Run - > npm install
+    Once installation completed run the code by using below CMD
+    Run - > npm start
+    
+#end
